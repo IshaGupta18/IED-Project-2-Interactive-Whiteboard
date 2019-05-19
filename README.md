@@ -45,3 +45,5 @@ Construction and Working
 		-   If the word is not already stored then a default image is shown on the monitor.
 
 		-   It is used for clicking the picture of the information which is written alongside its heading/keyword.
+		
+Link to Working Video: https://drive.google.com/file/d/1OGB3MGTrbcHQHBi1-5ak5KKDG2xBrVFg/view?usp=sharing
